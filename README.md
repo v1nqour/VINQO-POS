@@ -8,7 +8,7 @@ Welcome to my project! You can find the latest release and release notes in the 
 ![Local Image](Signin.JPG)
 
 ## **Dashboard Page:**
-![Local Image](Dashboard.PNG)
+![Local Image](Dashboard.JPG)
 
 ## **Products Page:**
 ![Local Image](Products.JPG)
